@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Message>How has your day been so far?</Message>
+    <Message><Body>How has your day been?</Body></Message>
 </Response>
